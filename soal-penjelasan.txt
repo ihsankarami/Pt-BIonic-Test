@@ -1,0 +1,34 @@
+soal F
+
+Cypress:
+cypress adalah tool untuk testing javascript frame-work
+
+Function:
+adalah sebuah kumpulan kode yang dimana digunakan untuk menjalani sebuah task. biasanya function menerima satu atau lebih parameter. function akan menerima data, memproses sesuai perintah code, dan mengembalikannya(return). fucntion bisa dipakai berulang kali
+
+Devop:
+adalah sebuah praktis yang bertujuan supaya proses development berjalan dengan lancar dan seefektif mungkin. tugas seorang devops antara adalah membuat dan menjaga infrastruktur proses development agar berjalan lancar.
+
+Docker:
+adalah sebuah platform untuk build,test dan deploy aplikasi web
+
+kubernertes:
+kubernetes dapat mengelola secara efisien, otomatisasi deployment, skalabilitas, dan dalam lingkungan komputasi modern.
+
+ORM:
+merupakan teknik yang merubah suatu table menjadi sebuah object yang nantinya mudah untuk digunakan. 
+Object yang dibuat memiliki property yang sama dengan field — field yang ada pada table tersebut.
+
+Class:
+Class bertujuan untuk men-define sebuah methode dan variabel sebuah object. biasa digunakan dalam OOP
+
+soal G
+
+Component-based development:
+karena lebih terorganisir dan komponen dapat dipakai berulang2
+
+ Progressive web app architecture: 
+ lebih safe dan responsif
+
+ Microservice architecture
+ lebih efisien daripada monolithic
