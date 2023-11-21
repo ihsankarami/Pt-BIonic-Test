@@ -3,7 +3,9 @@
 ## Penjelasan
 
 soal 2 ada di home (localhost:"port")
+
 soal 1 ada di localhost:"port"/soal1-sccTest
+
 soal f dan g ada di file soal-penjelasan.txt
 
 ## Project setup
